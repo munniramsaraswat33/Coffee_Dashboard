@@ -1,4 +1,4 @@
-☕ Coffee Dashboard
+# ☕ Coffee Dashboard
 📌 Project Overview
 
 The Coffee Dashboard is an interactive data visualization project that provides insights into coffee sales, trends, and performance metrics. It helps users analyze business data efficiently through visually appealing charts and dashboards.
